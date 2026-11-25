@@ -1,0 +1,16 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+data/
+audio_cache/
+server.log
+models/
+*.onnx
+*.bin
+*.safetensors
+*.rkllm
+*.gguf
+*.tar
+*.tar.bz2
+.env
